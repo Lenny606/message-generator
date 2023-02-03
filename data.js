@@ -1,4 +1,4 @@
-var data = [
+export const data = [
     {
         "region": "West-Vlaanderen",
         "country": "Singapore",

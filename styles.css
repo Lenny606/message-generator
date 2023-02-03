@@ -4,6 +4,10 @@
   background-color: aquamarine;
 }
 
+.message_box__active {
+  border: 1px solid;
+}
+
 #home {
   background-color: aqua;
   display: flex;
@@ -15,4 +19,17 @@
 
 .btn_box {
   margin-top: 100px;
+}
+.btn_action {
+  padding: 15px;
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: aqua;
+}
+
+.btn_action:active {
+  padding: 15px;
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: rgb(21, 232, 232);
 }
